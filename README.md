@@ -40,13 +40,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Demo
 
-![Note Taker](\assets\images\NotesDemo.gif)
+![Note Taker](/assets/images/NotesDemo.gif)()
 
 # Application Preview :
 
 | Main Page                                 | Saved Notes                                    | Delete Note                                    |
 | ----------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![Main Page](\assets\images\HomePage.JPG) | ![Saved Notes](\assets\images\Saved_Notes.JPG) | ![Delete Note](\assets\images\DeleteNotes.JPG) |
+| ![Main Page](/assets/images/HomePage.JPG) | ![Saved Notes](/assets/images/Saved_Notes.JPG) | ![Delete Note](/assets/images/DeleteNotes.JPG) |
 
 # Technology
 
