@@ -38,17 +38,17 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 - Being able to take persistent notes allows users to have written information available when needed.
 
-# Demo :
+# Demo
 
-![Note Taker](public/assets/images/NoteTaker.gif)
+![Note Taker](\assets\images\NotesDemo.gif)
 
 # Application Preview :
 
-| Main Page                                        | Saved Notes                                         | Delete Note                                         |
-| ------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------- |
-| ![Main Page](public/assets/images/NoteTaker.png) | ![Saved Notes](public/assets/images/SavedNotes.png) | ![Delete Note](public/assets/images/DeleteNote.png) |
+| Main Page                                 | Saved Notes                                    | Delete Note                                    |
+| ----------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| ![Main Page](\assets\images\HomePage.JPG) | ![Saved Notes](\assets\images\Saved_Notes.JPG) | ![Delete Note](\assets\images\DeleteNotes.JPG) |
 
-# Technology :
+# Technology
 
 **1. [Express.js](https://expressjs.com/)** :
 
@@ -68,7 +68,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 **3. [uuid](https://www.npmjs.com/package/uuid)** : Creates random unique id's.
 
-# Usage :
+# Usage
 
 - Clone this repository to use this application on local machine.
 
@@ -86,7 +86,7 @@ node server.js
 
 - Open browser and type `http://localhost:3000/` to run this application on your local machine.
 
-# Features :
+# Features
 
 1. Used 'Express.js' to build server
 
